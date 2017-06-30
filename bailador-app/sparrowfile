@@ -12,6 +12,7 @@ HERE
 
 zef 'Path::Iterator';
 zef '.', %( depsonly => True );
+zef 'TAP::Harness';
 
 bash 'export PATH=/opt/rakudo/bin:$PATH && prove6 -l';
 
