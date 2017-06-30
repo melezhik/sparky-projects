@@ -1,0 +1,3 @@
+sparrowdo:
+  ssh_user: centos 
+  host: remote-centos-host
