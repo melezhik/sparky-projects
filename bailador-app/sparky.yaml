@@ -1,0 +1,4 @@
+sparrowdo:
+  ssh_user: centos 
+  host: '34.203.221.178'
+  ssh_private_key: /home/melezhik/.ssh/aws-epam.pem

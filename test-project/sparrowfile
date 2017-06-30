@@ -1,0 +1,4 @@
+directory 'sparky-is-cool';
+bash 'pwd';
+bash 'sleep 4';
+bash 'exit 0';
