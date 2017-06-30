@@ -14,5 +14,7 @@ zef 'Path::Iterator';
 zef '.', %( depsonly => True );
 zef 'TAP::Harness';
 
-bash 'export PATH=/opt/rakudo/share/perl6/site/:/opt/rakudo/bin:$PATH && prove6 -l';
+bash 'export PATH=/opt/rakudo/share/perl6/site/bin/:/opt/rakudo/bin:$PATH && prove6 -l', %(
+  debug => True
+);
 
