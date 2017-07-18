@@ -1,3 +1,0 @@
-directory 'sparky-is-cool';
-bash 'pwd';
-bash 'exit 1';

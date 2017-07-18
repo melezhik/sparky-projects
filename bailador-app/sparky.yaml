@@ -1,5 +1,0 @@
-sparrowdo:
-  ssh_user: centos 
-  host: remote-centos-host
-
-crontab: "30,50 * * * *"

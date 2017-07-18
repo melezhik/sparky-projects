@@ -1,3 +1,0 @@
-directory '/tmp/sparky-is-cool';
-bash 'sleep 4';
-bash 'exit 0';
