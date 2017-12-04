@@ -1,0 +1,8 @@
+keep_builds: 10
+
+is_downstream: true
+
+sparrowdo:
+  docker: dreamy_sinoussi
+  no_sudo: true
+

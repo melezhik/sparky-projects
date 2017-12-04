@@ -1,0 +1,10 @@
+keep_builds: 5
+
+crontab: "* * * * *"
+
+downstream: test2
+
+sparrowdo:
+  docker: elastic_sinoussi
+  no_sudo: true
+  format:  default

@@ -1,0 +1,8 @@
+crontab: "*/5 * * * *"
+keep_builds: 2
+disabled: true
+
+sparrowdo:
+  docker: xenodochial_bhaskara
+  no_sudo: true
+
