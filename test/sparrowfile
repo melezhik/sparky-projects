@@ -1,1 +1,2 @@
-bash 'sleep 3'
+module_run "Sparrow::Update";
+

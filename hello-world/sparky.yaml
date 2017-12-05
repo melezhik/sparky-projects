@@ -1,12 +1,6 @@
-keep_builds: 5
-
 crontab: "* * * * *"
-
-disabled: true
-
-downstream: test2
-
 sparrowdo:
   docker: elastic_sinoussi
   no_sudo: true
-  format:  production
+keep_builds: 5
+
